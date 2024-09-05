@@ -1,0 +1,29 @@
+/* Definindo a fonte padrão */
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-family: 'Algerian Regular', serif;
+    font-size: 50px;
+    color: red;
+    text-align: center;
+}
+
+#sobre p, #autor p {
+    font-size: 20px;
+    font-family: 'Algerian Regular', serif;
+}
+
+a {
+    color: black; /* Cor padrão dos links */
+    text-decoration: none; /* Remove sublinhado dos links */
+}
+
+a:hover {
+    color: red; /* Cor dos links quando o mouse passa sobre eles */
+}
+
+.center {
+    text-align: center;
+}
